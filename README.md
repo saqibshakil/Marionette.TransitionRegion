@@ -2,6 +2,14 @@ Marionette.TransitionRegion
 ===========================
 
 Allows for simple and extensible transition support in marionette. 
+
+demo @
+http://jsfiddle.net/saqibshakil/4aBW3/8/
+
+or if you need a bigger preview try
+
+
+http://saqibshakil.github.io
 Usage is as follow
 
     app.addRegions({
